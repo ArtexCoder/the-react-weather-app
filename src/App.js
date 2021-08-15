@@ -6,10 +6,10 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather defaultCity="Airlie Beach" />
+        <Weather defaultCity="Brisbane" />
 
         <footer>
-          This project was coded by Meiling Aw and is{" "}
+          This project was coded by <strong>Meiling Aw</strong> and is{" "}
           <a
             href="https://github.com/ArtexCoder/the-react-weather-app"
             target="_blank"
