@@ -9,23 +9,16 @@ export default function App() {
         <Weather defaultCity="Airlie Beach" />
 
         <footer>
-          This project was coded by{" "}
-          Meiling Aw
-          </a>{" "}
-          and is{" "}
+          This project was coded by Meiling Aw and is{" "}
           <a
-            href="XXX"
+            href="https://github.com/ArtexCoder/the-react-weather-app"
             target="_blank"
             rel="noopener noreferrer"
           >
             open-sourced on GitHub
           </a>{" "}
           and{" "}
-          <a
-            href="XXX"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <a href="Netlify link" target="_blank" rel="noopener noreferrer">
             hosted on Netlify
           </a>
         </footer>
