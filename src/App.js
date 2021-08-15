@@ -18,7 +18,11 @@ export default function App() {
             open-sourced on GitHub
           </a>{" "}
           and{" "}
-          <a href="Netlify link" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://sad-galileo-c6ada6.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             hosted on Netlify
           </a>
         </footer>

@@ -29,8 +29,7 @@
 .Weather .temp {
   font-weight: bold;
   color: black;
-  font-size: 54px;
-  line-height: 40px;
+  font-size: 64px;
   margin-left: 5px;
   font-weight: 400;
   margin-left: 10px;
@@ -46,5 +45,5 @@
   font-weight: 400;
   position: relative;
   line-height: 1;
-  top: -24px;
+  top: -8px;
 }
